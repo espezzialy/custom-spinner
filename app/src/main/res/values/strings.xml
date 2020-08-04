@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Custom  Spinner</string>
+    <string name="text_view_selection">Selecione um Status para a CustomView</string>
+</resources>

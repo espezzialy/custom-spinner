@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/banco_leon"
+        android:title="Banco Leon"/>
+    <item android:id="@+id/banco_popular"
+        android:title="Banco Popular"/>
+</menu>
